@@ -18,7 +18,7 @@
 <li>'train/X_train.txt': Training set.</li>
 <li>'train/y_train.txt': Training labels.</li>
 <li>'test/X_test.txt': Test set.</li>
-<li>'test/y_test.txt': Test labels.<li></ul>
+<li>'test/y_test.txt': Test labels.</li></ul>
 
 <p>The following files are available for the train and test data. Their descriptions are equivalent.</p>
 <ul>
@@ -30,11 +30,11 @@
 <h3>Transformation:</h3>
 <p>There are 5 steps that took place to generate a tidy data set:</p>
 <ol>
-<li>	Merges the training and the test sets to create one data set.<li>
-<li>	Extracts only the measurements on the mean and standard deviation for each measurement.<li>
-<li>	Uses descriptive activity names to name the activities in the data set.<li>
-<li>	Appropriately labels the data set with descriptive activity names.<li>
-<li>	Creates a second, independent tidy data set with the average of each variable for each activity and each subject.<li></ol>
+<li>	Merges the training and the test sets to create one data set.</li>
+<li>	Extracts only the measurements on the mean and standard deviation for each measurement.</li>
+<li>	Uses descriptive activity names to name the activities in the data set.</li>
+<li>	Appropriately labels the data set with descriptive activity names.</li>
+<li>	Creates a second, independent tidy data set with the average of each variable for each activity and each subject.</li></ol>
 
 <h3>Explanation of how run_analysis.R works to implement the transformation:</h3>
 <ul>
