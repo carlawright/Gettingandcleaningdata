@@ -47,5 +47,5 @@
 <li>	Extract only the measurements on the mean and standard deviation for each measurement. </li>
 <li>Read the activity labels into a table</li>
 <li>Name the activities in the data set from 'activity_labels.txt'</li>
-<li>	Creates a second tidy data set with the average of each variable for each activity and each subject and write to a  new file tidydata.txt</li>
+<li>Aggrated the mean of each column for each result in subjects and labels columns to create a second tidy data set with the average of each variable for each activity and each subject and write to a  new file tidydata.txt</li>
 </ul>
